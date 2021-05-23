@@ -40,7 +40,7 @@ const EmployeeInfo = () => {
             <h4>Επώνημο: {selectedEmployee.lastName}</h4>
             <h4>Όνομα: {selectedEmployee.firstName}</h4>
             <h4>Εργασία: {selectedEmployee.job}</h4>
-            <h4>Μάνατζερ: {selectedEmployee.employee}</h4>
+            <h4>Μάνατζερ: {selectedEmployee.manager}</h4>
             <h4>Ημερομηνία Πρόσληψης: {selectedEmployee.hireDate}</h4>
             <h4>Ετήσιος Μισθός: {selectedEmployee.salary}</h4>
             <h4>Ετήσιες Προμήθειες: {selectedEmployee.comm}</h4>
